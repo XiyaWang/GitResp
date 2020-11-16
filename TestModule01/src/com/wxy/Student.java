@@ -6,4 +6,6 @@ package com.wxy;
  * @date 2020/11/16 17:21
  */
 public class Student {
+    private int age;
+    private String name;
 }
