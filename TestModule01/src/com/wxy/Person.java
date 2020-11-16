@@ -1,5 +1,7 @@
 package com.wxy;
 
+import java.util.Date;
+
 /**
  * @author wxy
  * @version 1.0
@@ -8,4 +10,5 @@ package com.wxy;
 public class Person {
     private int age;
     private String name;
+    private Date date;
 }
